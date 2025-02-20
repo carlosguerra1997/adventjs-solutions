@@ -1,4 +1,4 @@
-export default function countSheeps(sheeps) {
+export function countSheeps(sheeps) {
   const sheepsFiltered = sheeps.filter(({ color, name }) => 
     color === 'rojo' 
       && name.toLowerCase().includes('a') 
@@ -7,3 +7,14 @@ export default function countSheeps(sheeps) {
   
   return sheepsFiltered
 }
+
+const sheeps = [
+  { name: 'Noa', color: 'azul' },
+  { name: 'Euge', color: 'rojo' },
+  { name: 'Navidad', color: 'rojo' },
+  { name: 'Ki Na Ma', color: 'rojo'},
+  { name: 'AAAAAaaaaa', color: 'rojo' },
+  { name: 'Nnnnnnnn', color: 'rojo'}
+]
+
+countSheeps(sheeps)

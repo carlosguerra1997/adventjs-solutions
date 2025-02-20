@@ -28,7 +28,8 @@ const ovejas = [
 ```
 
 ### Resultado:
-```
+
+```javascript
 [
   { name: 'Navidad', color: 'rojo' },
   { name: 'Ki Na Ma', color: 'rojo' }
