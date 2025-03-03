@@ -44,4 +44,4 @@ const otroAlmacen = {
 };
 
 contains(otroAlmacen, 'gameboy'); // false
-```js
+
