@@ -1,4 +1,4 @@
-# maxProfit
+# La locura de las criptomonedas
 
 Invertir en criptomonedas puede ser un deporte de riesgo, especialmente con los recientes hackeos como el de Bitmart. 😅 Sin embargo, si sabes cómo maximizar tus ganancias, puedes hacerlo de manera más inteligente. Este ejercicio te ayudará a calcular la mejor ganancia posible en un solo día de inversión.
 

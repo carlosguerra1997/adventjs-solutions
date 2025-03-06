@@ -1,4 +1,4 @@
-# groupBy
+# Agrupando cosas automáticamente
 
 Mark Zucktheelf 🧝 trabaja en la fábrica de Papa Noél y, con la llegada del día especial, ha creado una función para agrupar elementos de una colección de manera eficiente. ¡Ayuda a organizar los regalos y las listas de Navidad! 🎅
 
