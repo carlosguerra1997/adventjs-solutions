@@ -15,7 +15,3 @@ function getMinJump(obstacles) {
     if (valid) return i
   }
 }
-
-const obstacles = [2, 4, 6, 8, 10]
-const result = getMinJump(obstacles)
-console.log('Result: ', result)
