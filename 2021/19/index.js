@@ -16,6 +16,3 @@ function learn(time, courses) {
 
   return coursesIndexes
 }
-
-const result = learn(8, [8, 2, 1, 4, 3])
-console.log('Result: ', result)
