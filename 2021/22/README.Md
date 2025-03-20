@@ -37,6 +37,8 @@ const result = countDecorations(tree)
 console.log('Result: ', result) // 6
 ```
 
+#### Árbol de ejemplo 2
+
 ```js
 const bigTree = {
   value: 1,
