@@ -1,8 +1,9 @@
 # 🔧 ¡Necesitamos un mecánico!
 
+## 📌 Descripción del problema
+
 Se han estropeado algunos trineos eléctricos y los elfos están buscando piezas de repuesto para arreglarlos, pero no tienen claro si las piezas que tienen sirven.
 
-## 📌 Descripción del problema
 
 Las piezas de repuesto son **cadenas de texto**, y el mecánico **Elfon Masc** ha dicho que una pieza de repuesto es **válida** si puede convertirse en un **palíndromo eliminando, como máximo, un carácter**.
 
